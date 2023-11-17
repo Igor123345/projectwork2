@@ -1,0 +1,16 @@
+body{
+	background-color: lightsalmon;
+	font-size: 24px;
+	color: purple;
+}
+p{
+	font-size: 50px;
+	text-align: center;
+	background-color: lightslategray;
+	color: silver;
+}
+.text1{
+	border: dotted 5px pink;
+	height: 30px;
+	background-color: lightgray;
+}
